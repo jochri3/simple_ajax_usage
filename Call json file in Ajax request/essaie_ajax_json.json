@@ -1,0 +1,20 @@
+[
+	{
+		"id_article":"TV",
+		"nom_article":"Television",
+		"p_uht":700,
+		"qte_stk":90
+	},
+	{
+		"id_article":"RD",
+		"nom_article":"Radio",
+		"p_uht":250,
+		"qte_stk":77
+	},
+	{
+		"id_article":"PS4",
+		"nom_article":"PlayStation 4",
+		"p_uht":280,
+		"qte_stk":135
+	}
+]
